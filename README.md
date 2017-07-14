@@ -11,7 +11,7 @@ $ pip3 install --user -r requirements.txt
 ```
 $ mv config.py.sample config.py
 $ edit config.py
-$ python3 steelybot.py
+$ python3 steely.py
 ```
 (`config.py` is in `.gitignore`)
 
