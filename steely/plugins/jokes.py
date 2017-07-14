@@ -1,5 +1,5 @@
 import requests
-from steelybot import config
+from steely import config
 
 COMMAND = '.joke'
 

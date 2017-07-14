@@ -15,7 +15,7 @@ import requests
 import json
 from tinydb import TinyDB, Query
 from operator import itemgetter
-from steelybot import config
+from steely import config
 from contextlib import suppress
 
 
